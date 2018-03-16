@@ -14,3 +14,13 @@ section{
 	overflow: auto;
 	text-align: center;
 }
+p{
+	width:400px;
+	min-height: 250px;
+	margin: 1% auto;
+	text-align: center;
+	font-size: 20px;
+	background: #ddd;
+	border-radius: 10px;
+	line-height: 30px;
+}
